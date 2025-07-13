@@ -10,9 +10,9 @@ classes, objects, methods, attributes
 
 A Python virtual environment (carla_jupyter_env) was created to run CARLA simulations and interact with them through Jupyter Notebooks.
 
-CARLA uses a client-server architecture
-The server runs the simulation
-The client (python script) uses the API to interact with it
+CARLA uses a client-server architecture.
+The server runs the simulation.
+The client (python script) uses the API to interact with it.
 The CARLA server = the actual simulator window running in Unreal Engine.
 Python code = the client that sends instructions to control the simulation.
 
