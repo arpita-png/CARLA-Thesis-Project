@@ -32,7 +32,7 @@ When the script says "spawn a car", this simulator adds that car to the 3D scene
 -Python Script (receives and continues)<br>
 
 # client = carla.Client('localhost', 2000) --creates a communication channel between your script and the CARLA simulator.
-'localhost':<br>
+localhost:<br>
 - “connect to a CARLA simulator that is running on this computer.”<br>
 -If the simulator was running on a remote machine, use its IP address (e.g., '192.168.1.42').<br>
 2000: <br>
