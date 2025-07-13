@@ -17,7 +17,7 @@ The CARLA server = the actual simulator window running in Unreal Engine.<br>
 Python code = the client that sends instructions to control the simulation.<br>
 
 # CARLA Simulator?
-It's the program running in the background (usually started with ./CarlaUE4.sh).<br>
+It's the program running in the background (to launch ./CarlaUE4.sh).<br>
 It is separate from the Python script.<br>
 It handles the visual world, physics, cars, pedestrians, traffic lights, weather, etc.<br>
 When the script says "spawn a car", this simulator adds that car to the 3D scene<br>
