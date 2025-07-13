@@ -1,1 +1,21 @@
+# client = carla.Client('localhost', 2000) --creates a communication channel between python script and the CARLA simulator.
+localhost:<br>
+-connect to a CARLA simulator that is running on this computer.<br>
+-If the simulator is running on a remote machine, use its IP address (e.g., '192.168.1.42').<br>
+2000: <br>
+CARLA simulator running on port 2000, this is the TCP port number that CARLA uses by default.<br>
+The simulator listens on this port for incoming Python API commands.<br>
+
+# Phase1
+Connect to the server<br>
+Load a specific map<br>
+Change the weather<br>
+Spawn a vehicle<br>
+Make it move with autopilot<br>
+
+# Phase 2
+Attach an RGB camera to the vehicle<br>
+Capture images<br>
+Display them live inside the Jupyter Notebook<br>
+
 
