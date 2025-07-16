@@ -14,7 +14,8 @@ Spawn a vehicle<br>
 Make it move with autopilot<br>
 
 # Phase 2
-Attach an RGB camera to the vehicle<br>
+Attach an RGB camera to the vehicle- connecting a virtual camera sensor to the vehicle inside the carla simulator
+RGB- red, green, blue camera captures color images of what the vehicle sees from its perspective and use the captured data for visualization, object detection, lane keeping<br>
 Capture images<br>
 Display them live inside the Jupyter Notebook<br>
 
