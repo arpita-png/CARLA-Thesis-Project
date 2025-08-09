@@ -1,5 +1,5 @@
 # Objective-
-To improve vehicle recovery and decision-making in edge-case scenarios using V2X communication (Vehicle-to-Vehicle and Vehicle-to-Infrastructure) in the CARLA Simulator.
+To improve vehicle recovery and decision-making in edge-case scenarios in complex urban environment
 
 # Requirements
 - CARLA Simulator v0.9.15
